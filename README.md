@@ -1,4 +1,4 @@
-
+routing-controllers, tpeorm, uuid, doteenv
 REST API. Авторизация по bearer токену (/info, /latency, /logout). Настроенный CORS для доступа с любого домена. DB — MongoDB. Токен создавать при каждом заходе.
 
 Описание API:
